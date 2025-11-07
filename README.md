@@ -21,9 +21,9 @@
 
   func main() {
     for {
+      drinkEnergy()
       code()
       fixBugs()
-      drinkEnergy()
       sleep()
     }
   }
