@@ -10,7 +10,7 @@
 ---
 
 ##### Socials
-[![Telegram](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=239fdb&logoColor=ffffff)](https://vk.ru/v0rdm1)
+[![Telegram](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=239fdb&logoColor=ffffff)](https://t.me/v0rdm1)
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=0077ff)](https://vk.ru/v0rdm1)
 
 ---
